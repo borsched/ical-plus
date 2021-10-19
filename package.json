@@ -1,0 +1,26 @@
+{
+  "name": "ical-plus",
+  "version": "1.0.0",
+  "description": "Pretty prints an iCalendar file.",
+  "main": "ical-plus.js",
+  "dependencies": {
+    "ical": "^0.8.0",
+    "luxon": "^1.28.0",
+    "moment": "^2.29.1",
+    "rrule": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borsched/ical-plus.git"
+  },
+  "author": "borsched",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/borsched/ical-plus/issues"
+  },
+  "homepage": "https://github.com/borsched/ical-plus"
+}
